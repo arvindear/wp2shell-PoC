@@ -8,8 +8,6 @@ import sys
 import exp
 from pathlib import Path
 
-
-
 exp.run_sync()
 
 class WP2Shell:
